@@ -1,12 +1,8 @@
 Automatyzation2/bin/Debug/
 Automatyzation2/.vs/
-Automatyzation2I/obj/Debug/
+Automatyzation2/obj/Debug/
+RobotFormsLib/bin/Debug/
+RobotFormsLib/.vs/
+RobotFormsLib/obj/Debug/
 .vs/
-
-Automatyzation2/bin/Debug/
-Automatyzation2/obj/Debug/Automatyzation2.pdb
-RobotFormsLib/bin/Debug/RobotFormsLib.pdb
-Automatyzation2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-Automatyzation2/obj/Debug/Automatyzation2.csproj.FileListAbsolute.txt
-RobotFormsLib/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cach
 *.txt
